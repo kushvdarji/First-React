@@ -1,0 +1,103 @@
+*
+{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bottom
+{
+    color: red;
+    text-align: center;
+    font-size:xx-large ;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.top
+{
+    color:slategray;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.photos
+{
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+}
+.good
+{
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+.semiproject
+{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.jaimin
+{
+    margin-bottom: 40px;
+}
+.order
+{
+    margin-left: 20px;
+}
+.calculator
+{
+    margin-top: 10px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.multiply
+{
+    margin-bottom: 50px;
+}
+img
+{
+    height: 50vh;
+     
+}
+.head
+{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+button
+{
+    cursor: pointer;
+}
+.heading_style
+{
+    padding: 30px 0px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    font-size: 13px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    color: black;
+    background-color: blanchedalmond;
+    font-size: 1.5rem;
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+.btn
+{
+    margin-bottom: 50px;
+    margin-top: 20px;
+    font-size: x-large;
+    margin-left: 20px;
+}
+.youtube
+{
+    margin-left: 20px;
+    display:flexbox;
+}
+#demo
+{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
